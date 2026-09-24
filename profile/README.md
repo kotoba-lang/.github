@@ -1,4 +1,4 @@
-# Kotoba
+# Kotoba - John 1:1
 
 Capability-safe language for **untrusted AI-written code**. A compiled program can use only the authority it was granted. Deny-by-default.
 
